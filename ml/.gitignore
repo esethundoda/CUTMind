@@ -1,0 +1,4 @@
+# Real survey data is personal research data. Keep it out of public repos.
+data/*.csv
+model_output/
+.venv/

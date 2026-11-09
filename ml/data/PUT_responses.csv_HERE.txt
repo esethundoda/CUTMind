@@ -1,0 +1,5 @@
+The raw survey responses (responses.csv) are NOT included in this package to protect
+student privacy (the survey was anonymous, but the data is only shared as approved).
+To retrain the model, place responses.csv in this folder and run:
+    py train_model.py --instrument gad2 --allow-small --deploy
+The trained results (report, charts, model) are already in ../model_output/.

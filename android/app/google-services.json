@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "241032978291",
+    "project_id": "cutmind-746c1",
+    "storage_bucket": "cutmind-746c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241032978291:android:93730e57de13abb83a6f06",
+        "android_client_info": {
+          "package_name": "com.cutmind.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJtHff_BIkCJLOOJxLP1Ik8dH131Zweyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241032978291:android:c13fdfdb5a7ab2203a6f06",
+        "android_client_info": {
+          "package_name": "com.example.cutmind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJtHff_BIkCJLOOJxLP1Ik8dH131Zweyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
