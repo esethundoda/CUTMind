@@ -1,7 +1,4 @@
-# CUTMind: Beta prototype
-
-**Machine-learning-driven mobile wellness app for CUT students**
-Student: Esethu Ndoda (220019558) | IPJ527C Advanced Research Project B | Assessment 3 (beta)
+# CUTMind
 
 CUTMind lets a student check in on stress, anxiety, sleep, motivation and social connection, receive a
 **risk result with a reason** (Random Forest trained on 33 real, anonymous CUT responses), keep a private
